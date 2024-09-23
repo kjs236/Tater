@@ -1,0 +1,18 @@
+* {
+    width: 100%;
+}
+
+
+nav {
+    display: inline-flex;
+}
+
+#links {
+    display: flex;
+    width: 75%;
+}
+
+#nav {
+    width: 25%;
+    align-items: right;
+}
